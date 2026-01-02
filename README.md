@@ -22,3 +22,15 @@
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+功能说明：
+圆形计算：
+circleArea：计算圆的面积（πr²）
+circleCircumference：计算圆的周长（2πr）
+circleDiameter：直接返回直径值（用于快速输入）
+矩形计算：
+rectangleArea：计算矩形面积（长×宽）
+rectanglePerimeter：计算矩形周长（2×(长+宽)）
+其他形状：
+squareArea：正方形面积（边长×边长）
+triangleArea：三角形面积（0.5×底×高）

@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "oofy": "github:raritytirar/oofy_area#v1.0.0"
     },
     "files": [
         "main.blocks",
